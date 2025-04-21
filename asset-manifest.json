@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.34e5e49d.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.4767a783.js",
+=======
+    "main.js": "/static/js/main.203d389a.js",
+>>>>>>> 55a1c40d898fcad1ab6723adf0add5136c76c126
     "static/media/pexels-alex-staudinger-1732414.jpg": "/static/media/pexels-alex-staudinger-1732414.b653d3234bbb06c26a1f.jpg",
     "static/media/pexels-binyamin-mellish-186078.png": "/static/media/pexels-binyamin-mellish-186078.75b5d52bc068ebba8786.png",
     "static/media/background.png": "/static/media/background.1f85623d06212e6d3ed4.png",
@@ -16,10 +20,18 @@
     "static/media/meta.jpg": "/static/media/meta.3b2dfb80d3a042913c7d.jpg",
     "index.html": "/index.html",
     "main.34e5e49d.css.map": "/static/css/main.34e5e49d.css.map",
+<<<<<<< HEAD
     "main.4767a783.js.map": "/static/js/main.4767a783.js.map"
   },
   "entrypoints": [
     "static/css/main.34e5e49d.css",
     "static/js/main.4767a783.js"
+=======
+    "main.203d389a.js.map": "/static/js/main.203d389a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e5e49d.css",
+    "static/js/main.203d389a.js"
+>>>>>>> 55a1c40d898fcad1ab6723adf0add5136c76c126
   ]
 }
